@@ -167,6 +167,7 @@
     <fields>
         <fullName>test2__c</fullName>
         <defaultValue>false</defaultValue>
+        <description>test2</description>
         <label>test2</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
