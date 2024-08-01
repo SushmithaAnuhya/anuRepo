@@ -22,6 +22,10 @@
                 <behavior>Required</behavior>
                 <field>ContactAccessLevel</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Addnew__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
